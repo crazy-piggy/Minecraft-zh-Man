@@ -1,0 +1,16 @@
+{
+    "pack": {
+        "pack_format": 34,
+        "description": "§6牢体中文\nWhat can I say!\nMamba out!§r"
+    },
+    "language": {
+        "zh_man": {
+            "name": "牢体中文",
+            "region": "§c天国§r",
+            "bidirectional": false
+        }
+    },
+    "author" :[
+        "crazy_piggy_"
+    ]
+}
