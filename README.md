@@ -26,4 +26,4 @@
 
 ## 使用方法
 
-在release里下载所需版本命名的zip文件，命名方式：`<游戏版本>-<资源包格式版本>-zh_Man-<资源包版本>.zip`，参考：https://zh.minecraft.wiki/w/Tutorial:%E5%8A%A0%E8%BD%BD%E8%B5%84%E6%BA%90%E5%8C%85 。
+在release里下载所需版本命名的zip文件，命名方式：`<游戏版本>-<资源包格式版本>-zh_Man-<资源包版本>.zip`，安装方式参考：https://zh.minecraft.wiki/w/Tutorial:%E5%8A%A0%E8%BD%BD%E8%B5%84%E6%BA%90%E5%8C%85 ，在语言中选择`牢体中文（天国）`即可感受肘击。
